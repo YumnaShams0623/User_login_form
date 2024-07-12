@@ -1,0 +1,21 @@
+img{
+    position: fixed;
+    top:40px ;
+}
+.start{
+    position: absolute;
+    left: 1100px;
+    top: 100px;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+b{
+    position: absolute;
+    right: 0px;
+    color: #424040;
+}
+i{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
